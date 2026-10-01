@@ -1,0 +1,2 @@
+shapeID,name,area_km2,n_pixels,sol,rad_km2,sol_per_km2,mean_rad,median_rad,p90_rad,max_rad,lit_area_km2,lit_share,core_area_km2,core_share,pop,pop_inhabited,pop_lit,pop_dark,pop_lit_share,pop_density,sol_per_capita,gini_pixels,gini_pop_light,cv_rad,sol_share_nat,pop_share_nat,light_pop_ratio
+96871213B60890837709686,Ethiopia,1.12592e+06,510105,12922,28513.4,0.0114768,0.0253321,0,0,54.9953,11547.4,0.0102559,633.466,0.000562619,1.03427e+08,1.03427e+08,1.72149e+07,8.62124e+07,0.166445,91.86,0.000124938,0.99617,0.945935,24.3721,1,1,1
